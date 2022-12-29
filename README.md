@@ -17,11 +17,11 @@ Does this sound like something you're interested 💡 in? Do you want to work to
 Still not sure? [Check out my Gists!]
  
 Drop me a line 🎣 
-Mastodon 🐘: [@eejum@merveilles.town]
-Website 🖱️: [cupofsquid.com]
+- Mastodon 🐘: [@eejum@merveilles.town]
+- Website 🖱️: [cupofsquid.com]
 
 [transmasc]: https://nonbinary.wiki/wiki/Transmasculine
-[Check out my Gists]: https://gist.github.com/ej-mitchell
+[Check out my Gists!]: https://gist.github.com/ej-mitchell
 [cupofsquid.com]: https://www.cupofsquid.com
 [@eejum@merveilles.town]: https://merveilles.town/web/@eejum
 <!---
