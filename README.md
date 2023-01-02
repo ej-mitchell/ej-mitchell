@@ -12,7 +12,7 @@ This has looked like the following:
 - Educating myself on free, open-source options that use less energy 🍃
 - And more!
 
-Does this sound like something you're interested 💡 in? Do you want to work together?
+Does this sound like something you're interested 💡 in? Do you want to work together? (En français ou en anglais!)
 
 Still not sure? [Check out my Gists!]
  
